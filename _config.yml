@@ -96,17 +96,5 @@ service-worker: true
 
 
 
-# Friends
-How to connnect me?: [
-    {
-        title: "weibo",
-        href: "https://weibo.com/u/6006540850"
-    },
-  { RSS: false
-weibo_username:  6006540850?is_hot=1
-#zhihu_username:   
-github_username:    YanBossLee
-facebook_username:  
-#jianshu_username:   
-twitter_username:   Epoligue}
-]
+# How to connect me?
+
