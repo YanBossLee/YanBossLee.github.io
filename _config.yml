@@ -4,7 +4,7 @@ SEOTitle: 南墙与我何干的博客 | YBL Blog
 header-img: img/3.png
 email: 283447362@qq.com
 description: "废柴却充满梦想的颜某人"
-keyword: "废柴却充满梦想的颜某人, 颜某人的博客, yanmouren, 颜某人"
+keyword: "废柴却充满梦想的颜某人, 颜某人的博客, 颜某人"
 url: "http://YanBossLee.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/YanBossLee/YanBossLee.github.io.git" # you code repository
@@ -103,7 +103,6 @@ friends: [
         href: "https://weibo.com/u/6006540850"
     },
     {
-        title: "Apple",
-        href: "https://apple.com"
+      #
     }
 ]
