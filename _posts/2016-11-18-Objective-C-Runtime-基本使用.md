@@ -1,18 +1,5 @@
 ---
 layout:     post
-title:      Objective-C Runtime 基本使用
-subtitle:   Runtime 使用案例
-date:       2017-02-04
-author:     BY
-header-img: img/post-bg-ios9-web.jpg
-catalog: true
-tags:
-    - Obj-C
-    - Runtime
-    - iOS
---- 
----
-layout:     post
 title:      心血来潮的第一篇
 subtitle:   这个是啥意思
 date:       2018-12-25
