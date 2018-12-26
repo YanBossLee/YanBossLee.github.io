@@ -9,6 +9,29 @@ url: "http://YanBossLee.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/YanBossLee/YanBossLee.github.io.git" # you code repository
 
+
+
+
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+- jekyll-feed
+
+
+
+#默认底图
+header-img: /img/index.jpg
+
+RSS: feed.xml
+categories_path: categories
+tags_path: tags
+archive_path: archives
+about_path: about
+
+BASE_PATH:
+
+
+
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "我写这个网站，不是为了别的，就是为了学（装）习（逼）！"
@@ -19,11 +42,14 @@ sidebar-avatar: /img/me.jpg    # use absolute URL, seeing it's used in both `/` 
 # SNS settings
 RSS: false
 weibo_username:  6006540850?is_hot=1
-#zhihu_username:   
+zhihu_username:   
 github_username:    YanBossLee
 facebook_username:  
-#jianshu_username:   
+jianshu_username:   
+email：283447362@qq.com
 twitter_username:   Epoligue
+
+anchorjs: true                          # 修改在default.html->footer
 
 
 
@@ -97,4 +123,17 @@ service-worker: true
 
 
 # How to connect me?
+# Friends
+friends: [
+	{   
+        title: "",
+        href: "http://bzrlc.github.io/about/"
+	},{
+        title: "Hux-模板来源",
+        href: "https://github.com/Huxpro/huxpro.github.io"
+	},{
+        title: "邱白莹",
+        href: "http://qiubaiying.top"
+	}
+]
 
