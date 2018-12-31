@@ -1,10 +1,10 @@
 # Site settings
 title: YBL Blog
 SEOTitle: 南墙与我何干的博客 | YBL Blog
-header-img: img/index.jpg
+header-img: img/IMG_5108.jpg
 #email: qiubaiying@gmail.com
 description: "朽木自雕——颜某人"
-keyword: "YBL Blog, YBL的博客, yanbingliang,南墙与我何干"
+keyword: "YBL的博客, yanbingliang,南墙与我何干"
 url: "http://YanBossLee.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "github.com/YanBossLee/YanBossLee.github.io.git" # you code repository
