@@ -104,40 +104,7 @@ ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
 ga_domain: czmlee.cn              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
-links1:
-  - name:         所有
-    url:          /
-    type:         recent
-    external:     false
-  - name:         随笔
-    url:          /blog/essays
-    type:         essays
-    external:     false
-  - name:         Jekyll
-    url:          /blog/jekyll
-    type:         jekyll
-    external:     false
-  - name:         测试相关
-    url:          /blog/abouttest
-    type:         abouttest
-    external:     false
-  - name:         其它
-    url:          /blog/other
-    type:         other
-    external:     false
-blog_1:    recent
-blog_2:    essays
-blog_3:    jekyll
-blog_4:    androidoriginal
-blog_5:    abouttest
-blog_6:    stock
-blog_7:    other
-blog_8:    python
-blog_9:    flutter
-blog_10:   ffmpeg
-blog_11:   opengl
-blog_12:   hacker
-blog_13:
+
 
 
 # Featured Tags
