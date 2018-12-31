@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      用ss或ssr实现
-subtitle:   爬了个爬梯子
+title:      用ss或ssr实现xxxx
+subtitle:   爬呀么爬梯子
 date:       2018-12-25
 author:     YBL
 header-img: img/post-bg-universe.jpg
@@ -67,7 +67,7 @@ ss/ssr的目的就是用来fq的，而vpn的目的是用来加密企业数据的
 一是自己在云上搭一个代理服务器(土豪&&折腾党可以试一下)，怎么搭载我也会在以后给出步骤，当然在网上也是一搜一大把。
 二是购买别人的节点（卖家会跟你说服务器ip、端口、协议等信息，你只需要把它复制到正确的位置，或者直接扫个二维码就自动填上了），
 如果你一分钱也不想花，也有一些公益节点可以让你使用，我用过感觉体验也挺不错，YouTube1080P看起来还是毫无压力的，不好的就是有可能你会被限速之类的，账号密码可能也会不定期的更改。
-配置完后可以将Shadowrocket添加到-1屏置顶，一键爬可以说是肥肠方便了
+配置完后可以将Shadowrocket添加到-1屏制定，一键f。q可以说是肥肠方便了
 ![](https://raw.githubusercontent.com/YanBossLee/YanBossLee.github.io/master/img/-1.png)
 ## 致谢
 1. 感谢 Jekyll和Github Pages 
