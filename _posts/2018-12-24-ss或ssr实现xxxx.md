@@ -7,10 +7,8 @@ author:     YBL
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
-	- Blog
-	- Shadowsocket
-	- Shadowrocket-R
-	- vpn
+- Blog
+	
 ---
 
 > 写篇杂文练练手
