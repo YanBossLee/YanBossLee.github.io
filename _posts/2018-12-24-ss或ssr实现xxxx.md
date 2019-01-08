@@ -9,6 +9,7 @@ catalog: true
 tags:
     - SSR/SS
     - VPN
+    - Shadowrocket
     - 生活
 ---
 
