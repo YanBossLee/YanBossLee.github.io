@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      用ss或ssr实现xxxx
+title:      用ss或ssr实现kx上网
 subtitle:   爬呀么爬梯子
 date:       2018-12-24
 author:     YBL
