@@ -7,8 +7,9 @@ author:     YBL
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
-- Blog
-	
+    - SSR/SS
+    - VPN
+    - 生活
 ---
 
 > 写篇杂文练练手
